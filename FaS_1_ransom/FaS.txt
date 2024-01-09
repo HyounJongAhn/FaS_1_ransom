@@ -1,0 +1,3 @@
+This is FaS Ransomware
+Find Rsa Key in Code, Let's Decrypt aes Key
+use decrypted aes key to file decrypt, key point is FaS_2024

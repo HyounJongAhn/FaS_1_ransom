@@ -1,0 +1,13 @@
+﻿  print.cpp
+C:\Users\hyounjong\source\repos\FaS_1_ransom\DecRansom\print.cpp(9,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\hyounjong\source\repos\FaS_1_ransom\DecRansom\print.cpp(19,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\hyounjong\source\repos\FaS_1_ransom\DecRansom\print.cpp(28,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\hyounjong\source\repos\FaS_1_ransom\DecRansom\print.cpp(37,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\hyounjong\source\repos\FaS_1_ransom\DecRansom\print.cpp(44,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\hyounjong\source\repos\FaS_1_ransom\DecRansom\print.cpp(53,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  0 of 94 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  DecRansom.vcxproj -> C:\Users\hyounjong\source\repos\FaS_1_ransom\x64\Release\DecRansom.exe

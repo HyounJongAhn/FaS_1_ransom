@@ -1,0 +1,27 @@
+﻿  aes_dec.cpp
+C:\Users\hyounjong\source\repos\DecRansom\print.h(19,1): warning C4005: 'PRINT_PLAINTEXT': 매크로 재정의
+  (소스 파일 'aes_dec.cpp'을(를) 컴파일하는 중)
+  C:\Users\hyounjong\source\repos\DecRansom\aes_dec.h(11,1):
+  'PRINT_PLAINTEXT'의 이전 정의를 참조하십시오.
+  
+C:\Users\hyounjong\source\repos\DecRansom\print.h(20,1): warning C4005: 'PRINT_CIPHERTEXT': 매크로 재정의
+  (소스 파일 'aes_dec.cpp'을(를) 컴파일하는 중)
+  C:\Users\hyounjong\source\repos\DecRansom\aes_dec.h(12,1):
+  'PRINT_CIPHERTEXT'의 이전 정의를 참조하십시오.
+  
+C:\Users\hyounjong\source\repos\DecRansom\print.h(21,1): warning C4005: 'PRINT_DECRYPT': 매크로 재정의
+  (소스 파일 'aes_dec.cpp'을(를) 컴파일하는 중)
+  C:\Users\hyounjong\source\repos\DecRansom\aes_dec.h(13,1):
+  'PRINT_DECRYPT'의 이전 정의를 참조하십시오.
+  
+C:\Users\hyounjong\source\repos\DecRansom\aes_dec.cpp(65,16): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  C:\Users\hyounjong\source\repos\DecRansom\aes_dec.cpp(65,16):
+  자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+  C:\Users\hyounjong\source\repos\DecRansom\aes_dec.cpp(65,16):
+  누락된 variadic 인수 1이(가) 서식 문자열 '%x'에 필요합니다.
+  
+  코드를 생성하고 있습니다.
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 256 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  DecRansom.vcxproj -> C:\Users\hyounjong\source\repos\x64\Release\DecRansom.exe

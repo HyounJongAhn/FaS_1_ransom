@@ -1,0 +1,24 @@
+﻿  file.cpp
+C:\Users\hyounjong\source\repos\FaS_1_ransom\file.cpp(33,25): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const _TCHAR *'입니다.
+  C:\Users\hyounjong\source\repos\FaS_1_ransom\file.cpp(33,25):
+  서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+  C:\Users\hyounjong\source\repos\FaS_1_ransom\file.cpp(33,25):
+  서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+  C:\Users\hyounjong\source\repos\FaS_1_ransom\file.cpp(33,25):
+  서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+  C:\Users\hyounjong\source\repos\FaS_1_ransom\file.cpp(33,25):
+  서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\hyounjong\source\repos\FaS_1_ransom\file.cpp(83,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\hyounjong\source\repos\FaS_1_ransom\file.cpp(86,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\hyounjong\source\repos\FaS_1_ransom\file.cpp(98,25): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const _TCHAR *'입니다.
+  C:\Users\hyounjong\source\repos\FaS_1_ransom\file.cpp(98,25):
+  서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+  C:\Users\hyounjong\source\repos\FaS_1_ransom\file.cpp(98,25):
+  서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+  C:\Users\hyounjong\source\repos\FaS_1_ransom\file.cpp(98,25):
+  서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+  C:\Users\hyounjong\source\repos\FaS_1_ransom\file.cpp(98,25):
+  서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+  
+  FaS_1_ransom.vcxproj -> C:\Users\hyounjong\source\repos\x64\Debug\FaS_1_ransom.exe

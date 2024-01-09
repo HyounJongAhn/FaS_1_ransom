@@ -18,16 +18,13 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="rsa_dec.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="aes_dec.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="file.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="crng.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="aes.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="rsa.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="print.cpp">
@@ -35,22 +32,19 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="aes.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="rsa.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="crng.h">
+    <ClInclude Include="rsa_dec.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="file.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
     <ClInclude Include="print.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="main.h">
+    <ClInclude Include="aes_dec.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
